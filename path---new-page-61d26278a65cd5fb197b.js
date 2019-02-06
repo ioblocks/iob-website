@@ -1,2 +1,2 @@
-webpackJsonp([0x5d16ea1533fc],{338:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Internet of Blockchains",description:"A Gatsby.js Starter based on Dimension by Gab Rigo inspired by HTML5UP"}}},pathContext:{}}}});
+webpackJsonp([0x5d16ea1533fc],{343:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Internet of Blockchains",description:"A Gatsby.js Starter based on Dimension by Gab Rigo inspired by HTML5UP"}}},pathContext:{}}}});
 //# sourceMappingURL=path---new-page-61d26278a65cd5fb197b.js.map
